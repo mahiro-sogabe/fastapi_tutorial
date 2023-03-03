@@ -7,7 +7,7 @@
 ```
 $ pyenv local [Pythonバージョン]
 ```
-※Pythonのバージョンは[.python-version](/.python-version)を参考
+※Pythonのバージョンは[Pipfile](/Pipfile)を参考
 ### 仮想環境の設定と起動
 ```
 $ pipenv --python [Pythonバージョン]
